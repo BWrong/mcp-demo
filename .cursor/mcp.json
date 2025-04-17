@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "traffic-server": {
+      "command": "node",
+      "args": [
+        "/Users/bwrong/0WorkSpace/00.MyStudy/mcp-demo/server/build/index.js"
+      ]
+    }
+  }
+}
