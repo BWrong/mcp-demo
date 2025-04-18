@@ -3,7 +3,7 @@ import { StdioClientTransport } from "@modelcontextprotocol/sdk/client/stdio.js"
 
 const transport = new StdioClientTransport({
   command: "node",
-  args: ["/Users/bwrong/0WorkSpace/00.MyStudy/mcp-demo/server/build/index.js"]
+  args: ["/Users/bwrong/0WorkSpace/00.MyStudy/mcp-demo/server/build/index.js", "cc2b744799eaa97ade23c468e272c731"]
 });
 
 const client = new Client(
