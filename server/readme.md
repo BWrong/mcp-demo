@@ -11,7 +11,7 @@
   "command": "npx",
   "args": [
     "amap-traffic-mcp-server",
-    "cc2b744799eaa97ade23c468e272c731" // 高德apikey
+    "111111111111" // 高德apikey
   ]
 }
 ```

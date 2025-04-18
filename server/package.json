@@ -1,16 +1,17 @@
 {
   "name": "amap-traffic-mcp-server",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "amap-traffic-mcp-server": "./build/index.js"
+    "amap-traffic-mcp-server": "./bin/amap-traffic-mcp-server"
   },
   "scripts": {
     "build": "tsc && build/index.js"
   },
   "files": [
-    "build"
+    "build",
+    "bin"
   ],
   "keywords": [],
   "author": "",
